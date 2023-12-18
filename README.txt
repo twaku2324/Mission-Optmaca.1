@@ -1,6 +1,3 @@
-https://bootcampspot.instructure.com/courses/5650/pages/3-dot-2-6-complete-the-git-flow?module_item_id=1132117
-^ Commit, Commit,Commit
-
 # Mission Optmaca
 
 ## Description
